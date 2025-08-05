@@ -60,7 +60,7 @@ Surface heat flux is not available
 
 
 ## Frequently Asked Questions
-1. **What points do I use from the graph?** Use the ones written at the bottom of the second page (below the graph).
+1. **What points do I use from the graph?** Use the ones written below the graph (boiling curve).
 
 2. **Activity 1 do I need to show my calculations in the pdf?** You don't need to write out the math if you provide a brief description instead. In your sequence of steps you can say something like 'calculate slope'. Of course, you are more than welcome to hand write equations, take a picture, and insert in your document.
 

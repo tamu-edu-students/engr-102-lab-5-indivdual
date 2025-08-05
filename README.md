@@ -6,7 +6,7 @@ There are two deliverables for this individual assignment. Please submit the fil
 1. [Boiling Curve](#boiling-curve)
 
 ## Boiling Curve
-Create a Python program that will calculate the surface heat flux ($$q_s^"$$) for water at 1 atm for a given excess temperature ($$∆T_e$$). You will need to create a simplified model for the relationship between heat flux and excess temperature, based on the graph below (from Wikipedia where you can learn more about boiling: https://en.wikipedia.org/wiki/Nucleate_boiling). The boiling curve is important in several engineering disciplines. It identifies the boiling regime, which then helps to determine the heat transfer coefficient, as well as physically what is going on. Different fluids have different boiling curves, however they all have a similar shape.
+Create a Python program that will calculate the surface heat flux ($$q_s^"$$) for water at 1 atm for a given excess temperature ($$∆T_e$$). You will need to create a simplified model for the relationship between heat flux and excess temperature, based on the graph below ([from Wikipedia](https://en.wikipedia.org/wiki/Nucleate_boiling) where you can learn more about nucleate boiling). The boiling curve is important in several engineering disciplines. It identifies the boiling regime, which then helps to determine the heat transfer coefficient, as well as physically what is going on. Different fluids have different boiling curves, however they all have a similar shape.
 
 ### Part 1
 For this part of the assignment, put together a document you will use to plan your program. You will submit a PDF of this document titled `boiling_curve_planning.pdf` to Canvas. Do this **before** you start to code.

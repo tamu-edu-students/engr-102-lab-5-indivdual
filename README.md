@@ -62,9 +62,9 @@ Surface heat flux is not available
 ## Frequently Asked Questions
 1. **What points do I use from the graph?** Use the ones written below the graph (boiling curve).
 
-2. **Activity 1 do I need to show my calculations in the pdf?** You don't need to write out the math if you provide a brief description instead. In your sequence of steps you can say something like 'calculate slope'. Of course, you are more than welcome to hand write equations, take a picture, and insert in your document.
+2. **Part 1 do I need to show my calculations in the pdf?** You don't need to write out the math if you provide a brief description instead. In your sequence of steps you can say something like 'calculate slope'. Of course, you are more than welcome to hand write equations, take a picture, and insert in your document.
 
-3. **Activity 2 Gradescope tells me to add more comments. How many comments are enough?** [That's kind of a philosophical question](The_Commento.pdf). Remember what we talked about in lecture? Write your steps out in comments, then fill in the code. If you did that, you have enough comments. If you skipped that step... go back and comment your code!
+3. **Part 2 Gradescope tells me to add more comments. How many comments are enough?** [That's kind of a philosophical question](The_Commento.pdf). Remember what we talked about in lecture? Write your steps out in comments, then fill in the code. If you did that, you have enough comments. If you skipped that step... go back and comment your code!
 
 Have a question you don't see here? Email your instructor!
 
